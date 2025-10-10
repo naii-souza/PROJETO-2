@@ -10,4 +10,4 @@ campo.innerHTML = texto
 
 function verificarChute() {
     console.log('O botão foi clicado!')
-}
+} 
