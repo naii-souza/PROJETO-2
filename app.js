@@ -13,9 +13,10 @@ function verificarChute() {
 
 if (chute == numeroSecreto) {}
     exibirTextoNaTela('h1','Acertou!')
-    
+    exibirTextoNaTela('p','Você descobriu o número secreto!')
+} else {}
 
-}
+
 
 
 
