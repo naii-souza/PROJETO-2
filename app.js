@@ -36,6 +36,7 @@ function limparCampo() {
     chute = document.querySelector('input');
     chute.value = '';
 }
+.
 
 
 
